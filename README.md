@@ -1,2 +1,2 @@
 # TMDB_Movies_Analysis
-Successfully analyzed and explored the TMDB Movies data set with asking questions, data wrangling, data exploration and visualization, and communicated insights
+Successfully analyzed the TMDB Movies data set for strong predictor variables that can predict high revenue in movies with data exploration and visualization
